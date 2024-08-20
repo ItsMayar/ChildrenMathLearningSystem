@@ -14,7 +14,7 @@ Project consists of a simple console application that uses Java Program. I imple
 - <b>Java Script</b>
 - <b>PHP</b>
 - <b>MySQL</b>
-- <b>JWeb Server</b>
+- <b>Web Server</b>
 
 <h2>Environments Used </h2>
 
