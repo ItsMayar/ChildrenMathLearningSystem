@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7dba53f2-fada-4242-9ed1-bec70c79683c)<h1>Java Children Math Learning System</h1>
+<h1>Java Children Math Learning System</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
