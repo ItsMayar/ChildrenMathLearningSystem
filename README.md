@@ -51,12 +51,24 @@ Simpele Math: Division <br/>
 <img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Simpele Math: Division <br/>
-<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
+Simpele Math: Addition <br/>
+<img src="https://i.imgur.com/2cIUU5J.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Simpele Math: Division <br/>
-<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
+Simpele Math: Multiplication <br/>
+<img src="https://i.imgur.com/r9ETdR3.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simpele Math: Subtraction <br/>
+<img src="https://i.imgur.com/Q1RpyLC.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simpele Math: Wrong Answer <br/>
+<img src="https://i.imgur.com/mkZc6LL.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simpele Math: Wrong Answer <br/>
+<img src="https://i.imgur.com/mkZc6LL.png" height="50%" width="50%" alt="Login"/>
 <br />
 </p>
 
