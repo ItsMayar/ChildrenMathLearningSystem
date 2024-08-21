@@ -23,8 +23,8 @@ Developed a Java-based learning system utilizing Object-Oriented Programming (OO
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Account Login: <br/>
+<img src="https://imgur.com/a/3VSIxeE" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
