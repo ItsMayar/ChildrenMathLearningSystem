@@ -24,31 +24,40 @@ Developed a Java-based learning system utilizing Object-Oriented Programming (OO
 
 <p align="center">
 Account Login: <br/>
-<img src="https://i.imgur.com/bdSAFRr.png" height="60%" width="60%" alt="Login"/>
+<img src="https://i.imgur.com/bdSAFRr.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
 Show Password:  <br/>
-<img src="https://i.imgur.com/bS9aqOn.png" height="60%" width="60%" alt="Login"/>
+<img src="https://i.imgur.com/bS9aqOn.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Reset Password: <br/>
+<img src="https://i.imgur.com/J8n3Ul6.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wrong Password: <br/>
+<img src="https://i.imgur.com/DcE9bo6.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Main Menu: <br/>
+<img src="https://i.imgur.com/27uqqik.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Simpele Math: Division <br/>
+<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Simpele Math: Division <br/>
+<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simpele Math: Division <br/>
+<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simpele Math: Division <br/>
+<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
+<br />
 </p>
 
 <!--
