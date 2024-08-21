@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Developed a Java-based learning system utilizing Object-Oriented Programming (OOP) principles and web-based techniques. The application is designed to enhance children's foundational skills in mathematics, shape recognition, and unit conversions, with a focus on providing an interactive and secure educational environment.
+Developed a Java-based learning system utilizing Object-Oriented Programming (OOP) principles, including polymorphism, inheritance, GUI development, and exception handling. The application is designed to enhance children's foundational skills in mathematics, shape recognition, and unit conversions, with a focus on providing an interactive and secure educational environment.
 <br />
 
 
