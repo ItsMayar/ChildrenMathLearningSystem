@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple console application that uses Java Program. I implemented Object Oriented Programming concepts of web techniques. This is a learning system for children to enhance their abilities in basics of maths, shapes, and even conversions of units.
+Developed a Java-based learning system utilizing Object-Oriented Programming (OOP) principles and web-based techniques. The application is designed to enhance children's foundational skills in mathematics, shape recognition, and unit conversions, with a focus on providing an interactive and secure educational environment.
 <br />
 
 
