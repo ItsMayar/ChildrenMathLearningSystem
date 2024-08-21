@@ -27,8 +27,8 @@ Account Login: <br/>
 <img src="https://i.imgur.com/bdSAFRr.png" height="60%" width="60%" alt="Login"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Show Password:  <br/>
+<img src="https://i.imgur.com/bS9aqOn.png" height="80%" width="80%" alt="Login"/>
 <br />
 <br />
 Enter the number of passes: <br/>
