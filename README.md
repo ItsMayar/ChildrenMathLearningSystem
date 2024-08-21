@@ -77,10 +77,6 @@ Simple Math: Subtraction Hint <br/>
 <br />
 Simple Math: Division Hint <br/>
 <img src="https://i.imgur.com/P2Um5Sa.png" height="50%" width="50%" alt="Login"/>
-<br 
-<br />
-Shape Questions <br/>
-<img src="https://i.imgur.com/rK8Ezww.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
 Shape Questions: Correct Answer <br/>
