@@ -28,7 +28,7 @@ Account Login: <br/>
 <br />
 <br />
 Show Password:  <br/>
-<img src="https://i.imgur.com/bS9aqOn.png" height="80%" width="80%" alt="Login"/>
+<img src="https://i.imgur.com/bS9aqOn.png" height="60%" width="60%" alt="Login"/>
 <br />
 <br />
 Enter the number of passes: <br/>
