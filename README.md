@@ -43,32 +43,40 @@ Main Menu: <br/>
 <img src="https://i.imgur.com/27uqqik.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Simpele Math: Division <br/>
-<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
-<br />
-<br />
-Simpele Math: Division <br/>
-<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
-<br />
-<br />
-Simpele Math: Addition <br/>
+Simple Math: Addition <br/>
 <img src="https://i.imgur.com/2cIUU5J.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Simpele Math: Multiplication <br/>
-<img src="https://i.imgur.com/r9ETdR3.png" height="50%" width="50%" alt="Login"/>
-<br />
-<br />
-Simpele Math: Subtraction <br/>
+Simple Math: Subtraction <br/>
 <img src="https://i.imgur.com/Q1RpyLC.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Simpele Math: Wrong Answer <br/>
+Simple Math: Multiplication <br/>
+<img src="https://i.imgur.com/r9ETdR3.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simple Math: Division <br/>
+<img src="https://i.imgur.com/MXst15O.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simple Math: Wrong Answer <br/>
 <img src="https://i.imgur.com/mkZc6LL.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Simpele Math: Wrong Answer <br/>
-<img src="https://i.imgur.com/mkZc6LL.png" height="50%" width="50%" alt="Login"/>
+Simple Math: Addition Hint <br/>
+<img src="https://i.imgur.com/kXG2fKN.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simple Math: Multiplication Hint <br/>
+<img src="https://i.imgur.com/jjKycTO.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simple Math: Subtraction Hint <br/>
+<img src="https://i.imgur.com/fTkAxCd.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Simple Math: Division Hint <br/>
+<img src="https://i.imgur.com/P2Um5Sa.png" height="50%" width="50%" alt="Login"/>
 <br />
 </p>
 
