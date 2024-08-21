@@ -1,4 +1,4 @@
-<h1>Java Children Math Learning System</h1>
+![image](https://github.com/user-attachments/assets/7dba53f2-fada-4242-9ed1-bec70c79683c)<h1>Java Children Math Learning System</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -27,15 +27,15 @@ Account Login: <br/>
 <img src="https://i.imgur.com/bdSAFRr.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Show Password:  <br/>
+Account Login: Show Password  <br/>
 <img src="https://i.imgur.com/bS9aqOn.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Reset Password: <br/>
+Account Login: Reset Password <br/>
 <img src="https://i.imgur.com/J8n3Ul6.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
-Wrong Password: <br/>
+Account Login: Wrong Password <br/>
 <img src="https://i.imgur.com/DcE9bo6.png" height="50%" width="50%" alt="Login"/>
 <br />
 <br />
@@ -77,7 +77,32 @@ Simple Math: Subtraction Hint <br/>
 <br />
 Simple Math: Division Hint <br/>
 <img src="https://i.imgur.com/P2Um5Sa.png" height="50%" width="50%" alt="Login"/>
+<br 
 <br />
+Shape Questions <br/>
+<img src="https://i.imgur.com/rK8Ezww.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Shape Questions: Correct Answer <br/>
+<img src="https://i.imgur.com/IkIIT06.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Shape Questions: Wrong Answer <br/>
+<img src="https://i.imgur.com/laEqjFL.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Converter: cm to m <br/>
+<img src="https://i.imgur.com/fcDR6A0.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Converter: m to cm <br/>
+<img src="https://i.imgur.com/MfQXJzg.png" height="50%" width="50%" alt="Login"/>
+<br />
+<br />
+Converter:  Wrong Format <br/>
+<img src="https://i.imgur.com/8A6Xqdl.png" height="50%" width="50%" alt="Login"/>
+<br />
+
 </p>
 
 <!--
