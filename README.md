@@ -24,7 +24,7 @@ Developed a Java-based learning system utilizing Object-Oriented Programming (OO
 
 <p align="center">
 Account Login: <br/>
-<img src="https://imgur.com/a/3VSIxeE" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/3VSIxeE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
